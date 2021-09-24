@@ -1,0 +1,58 @@
+{
+    "products": [
+        {
+          "id": 1001,
+          "availableInventory": 2,
+          "title": "9 Lives, 20lb bag",
+          "description":
+            "A 20 pound bag of <em> irresistible </em>, organic goodness for your cat.",
+          "price": 235,
+          "image":
+            "https://i5.walmartimages.com/asr/9d1fc82d-54ea-46d3-b9b7-411de6f8e9e7_1.038f63069a9176f2eb8710ea9210e68c.jpeg",
+            "rating": 1
+        },
+        {
+          "id": 1002,
+          "availableInventory": 4,
+          "title": "Friskies, 22lb bag",
+          "description":
+            "A 22 pound bag of <em> irresistible </em>, organic goodness for your cat.",
+          "price": "340",
+          "image":
+            "https://media.tractorsupply.com/is/image/TractorSupplyCompany/1344297?$456$",
+            "rating": 2
+        },
+        {
+          "id": 1003,
+          "availableInventory": 5,
+          "title": "IAMSO, 18lb bag",
+          "description":
+            "A 18 pound bag of <em> irresistible </em>, organic goodness for your cat.",
+          "price": "189",
+          "image":
+            "https://www.iams.com/images/default-source/product-slider-images/cat/iams-ph-healthy-adult-chix-side.png",
+            "rating": 3
+        },
+        {
+          "id": 1004,
+          "availableInventory": 1,
+          "title": "Purina One, 2lb bag",
+          "description":
+            "A 2 pound bag of <em> irresistible </em>, organic goodness for your cat.",
+          "price": "153",
+          "image":
+            "https://img.tesco.com/Groceries/pi/996/7613036936996/IDShot_225x225.jpg",
+            "rating": 4
+        }
+      ],
+      "logo":[
+        {
+          "id":1,
+          "name":"Jack"
+        },
+        {
+          "id":2,
+          "name":"Ben"
+        }
+      ]
+}
